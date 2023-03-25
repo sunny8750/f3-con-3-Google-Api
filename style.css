@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+#map{
+display: none;
+}
+
+.main-div{
+    text-align: center;
+}
+
